@@ -1,0 +1,105 @@
+.page-body{
+    background-image: url('bodybg.jpg') ;
+    backdrop-filter: blur(2px) ;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    color: rgb(184, 100, 23);
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.b2h{
+    position: absolute;
+    left: 85%;
+    top: 3.4%;
+    color: rgb(255, 255, 255);
+}
+
+.run1{
+    position: absolute;
+    top: 17%;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(228, 135, 48)
+}
+
+.top1{
+    background: rgb(0, 0, 0);
+    height: 55px;
+    width: 100%;
+}
+.welcome{
+    padding-top: 10px;
+    font-size: 30px;
+    font-style: inherit;
+    color: rgb(187, 174, 161)
+}
+.book{
+    text-align: border;
+    width: 10%;
+    
+}
+.link{
+   color: rgb(76, 123, 165);
+   background-color: transparent;
+   text-decoration: none;
+}
+.ovrtable{
+    position: absolute;
+    top: 35%;
+    left: 12%;
+    transform: translate(-50%,-50%);
+    width: 280px;
+    height: 150px;
+    border: 3px solid #af8b8b;
+   
+}
+.ovrtable th{
+    
+    padding: 4px 8px;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.district{
+    position: absolute;
+    top: 52%;
+    font-size: 30px;
+    font-style: initial;
+    color: rgb(255, 255, 255)
+}
+.districtrun{
+    position: absolute;
+    top: 62.5%;
+    font-size: 30px;
+    font-style: initial;
+    color: rgb(52, 240, 124)
+}
+.today{
+    position: absolute;
+    top: 22%;
+    left: 51%;
+    font-size: 25px;
+    font-style: initial;
+    color: rgb(255, 81, 0)
+}
+#tval{
+    color: rgb(255, 255, 255);
+    background: #af8b8b;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.home-body{
+        background-image: url('homebg.png') ;
+        backdrop-filter: blur(2px) ;
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+}
